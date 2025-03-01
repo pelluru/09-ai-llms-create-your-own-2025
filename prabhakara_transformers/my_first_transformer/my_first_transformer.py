@@ -1,4 +1,5 @@
 # https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch
+# https://www.datacamp.com/tutorial/pytorch-tutorial-building-a-simple-neural-network-from-scratch
 
 import torch
 import torch.nn as nn
