@@ -1,3 +1,5 @@
+# https://www.datacamp.com/tutorial/pytorch-tutorial-building-a-simple-neural-network-from-scratch
+
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_circles
 from sklearn.model_selection import train_test_split
